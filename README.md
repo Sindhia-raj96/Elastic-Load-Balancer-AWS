@@ -14,7 +14,7 @@ Step 3: While creating Load balance, make sure to create a security group which 
 
 ![image](https://github.com/Sindhia-raj96/Elastic-Load-Balancer-AWS/assets/161922154/b6803ee0-5ccb-47d1-8c94-828e86b969eb)
 
-Step 4: Copy the DNS name from the created Load Balancer and paste it. The ELB automatically balances the load between those instances.
+Step 4: Copy the DNS name from the created Load Balancer and paste it. The ELB automatically balances the load between those instances. It shows that how the ELB automatically distributes the incoming traffic across multiple targets. 
 
 Instance 1:
 
